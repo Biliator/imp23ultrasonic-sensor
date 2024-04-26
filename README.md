@@ -55,3 +55,8 @@ This repeats ad infinitum until the abort button is pressed. The maximum distanc
 ## 📃 Final summary
 
 The project meets the requirements of the assignment. The accuracy of the measurement depends on the accuracy of the person measuring the device straight and not swinging the device. But it still measures distance well. I don't know about the problems in my project, so I can't write anything about it. But the problems were easy with the parts that were given to me. The LED display always had a problem after debugging that some parts of the digits were flashing. This was resolved by unplugging and plugging the cable.
+
+## ⚖️ License
+
+See [LICENSE](LICENSE).
+
